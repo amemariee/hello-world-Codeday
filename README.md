@@ -1,2 +1,4 @@
 # hello-world-Codeday
-just another repository
+Hi CodeDay Team!
+
+I am excited for this internship! 
